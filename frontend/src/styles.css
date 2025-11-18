@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+.topnav { display:flex; gap: 12px; margin-bottom: 12px; }
+.container { max-width: 900px; margin: auto; }
+input { display:block; margin: 8px 0; padding: 8px; width: 300px; }
+button { padding: 8px 12px; margin-right: 8px; }
+table { width:100%; border-collapse: collapse; margin-top: 12px; }
+table th, table td { border:1px solid #ddd; padding:6px; text-align:left; }

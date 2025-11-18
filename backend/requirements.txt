@@ -1,0 +1,11 @@
+Flask
+mysql-connector-python
+deepface
+opencv-python
+numpy
+tensorflow
+keras
+torch
+torchvision
+PyCryptodome
+Pillow
