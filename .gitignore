@@ -4,4 +4,4 @@ backend/modules/
 backend/venv/
 backend/images
 backend/.env
-.vscode/
+.vscode
